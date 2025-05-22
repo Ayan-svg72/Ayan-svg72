@@ -43,6 +43,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayan-svg72&theme=radical" alt="Ayan's GitHub Streak">
 </div>
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x100.png?text=Footer+Image" alt="Footer Image" style="width: 100%; max-width: 800px;">
-</div>
