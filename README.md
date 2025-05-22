@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Header+Image" alt="Header Image" style="width: 100%; max-width: 800px;">
-  <h1>Hi there, I'm Ayan! 👋</h1>
+  <img src="https://abhra.me/assets/hero-B2ul8qRB.jpg" alt="Abhra" style="width: 100%; max-width: 800px;">
+  <h1>Hi there, I'm Abhra! 👋</h1>
   <p>I'm a passionate and creative developer with a love for building innovative solutions.</p>
   <p>I'm always eager to learn new technologies and collaborate on exciting projects.</p>
 </div>
